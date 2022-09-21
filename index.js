@@ -235,7 +235,7 @@ bicycleRental_loop = {
   type: "FeatureCollection",
   features: [],
 };
-for (var i = 0; i < 100000; i++) {
+for (var i = 0; i < 1000; i++) {
   var tmp = {
     type: "Feature",
     geometry: {

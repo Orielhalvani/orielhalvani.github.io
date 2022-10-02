@@ -10,7 +10,7 @@ var facingMode = "user"; // Can be 'user' or 'environment' to access back or fro
 var constraints = {
     audio: false,
     video: {
-        facingMode: facingMode
+        facingMode: environment
     }
 };
 
